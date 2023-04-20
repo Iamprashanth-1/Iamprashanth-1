@@ -1,6 +1,6 @@
 This is Munagala Prashanth Reddy
 
-![Profile views](https://gpvc.arturio.dev/[Iamprashanth-1])
+![](https://komarev.com/ghpvc/?username=Iamprashanth-1)
 
 ![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamprashanth-1)
 
