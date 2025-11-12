@@ -1,4 +1,4 @@
-This is Munagala Prashanth Reddy
+Prashanth Reddy
 
 ![](https://komarev.com/ghpvc/?username=Iamprashanth-1)
 
