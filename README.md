@@ -56,13 +56,12 @@ Here’s the tech stack I use to turn ideas into production-ready software:
 
 <br/>
 
-### 🏆 GitHub Trophies
+### 📈 Activity Graph
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Iamprashanth-1&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Prashanth's Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamprashanth-1&bg_color=000000&color=00ff00&line=00ff00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
+
 
 <br/>
 
